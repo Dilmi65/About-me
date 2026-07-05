@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmi65&label=Profile%20views&color=0e75b6&style=flat" alt="dilmi65" /> </p>
 
-- 🔭 I’m currently working on **Test**
-
 - 🌱 I’m currently learning **At SLIATE**
 
 - 📫 How to reach me **dilmi0065ndse@gmail.com**

@@ -99,13 +99,6 @@ I'm an Information Technology undergraduate from Sri Lanka with a passion for bu
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dilmi65&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi65&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect with Me
 
@@ -113,7 +106,6 @@ I'm an Information Technology undergraduate from Sri Lanka with a passion for bu
 
 💼 LinkedIn: https://linkedin.com/in/dilmi-edirisingha-88416b326
 
-💻 GitHub: https://github.com/Dilmi65
 
 ---
 
